@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 class Person {
     constructor(name, age) {
         this.name = name;

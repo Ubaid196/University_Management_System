@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 class Person {
   name: string;
   age: number;
